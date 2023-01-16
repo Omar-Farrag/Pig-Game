@@ -17,7 +17,7 @@ An exciting game involving two players players take turns to roll a die until on
 There are two ways to play the game:
 
 1. Clone this repository and open the index file on any browser (works offline)
-2. Go to the following website: https://guess-the-number-of.netlify.app
+2. Go to the following website: https://pig-game-of.netlify.app/
 
 ## Languages and Frameworks
 
