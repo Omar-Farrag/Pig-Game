@@ -2,7 +2,7 @@
 
 ## Description
 
-An exciting game involving two players players take turns to roll a die until one reaches a minimum score of 100
+An exciting game involving two players taking turns to roll a die. Each player has a running sum of the rolled die's face value. The game continues until a player reaches a minimum score of 100.
 
 -    Initially, each player has a total score of 0
 -    In each turn, the player continuously rolls the die and the resulting face value is added to a running sum
